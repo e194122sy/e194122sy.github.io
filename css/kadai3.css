@@ -1,0 +1,17 @@
+h1{
+   color:white;
+   background-color:black;
+   text-align:center;
+}
+h2{
+   background-color:blueviolet; 
+   text-align:center;
+    color:aliceblue;
+}
+h3{
+    color: aquamarine
+}
+body{
+    background-image:url(..//images/nobinobita.jpg)
+}
+
