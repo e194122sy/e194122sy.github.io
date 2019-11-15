@@ -1,0 +1,19 @@
+h1{
+    color:red;
+   background-color:white;
+   text-align:center;
+}
+h2{
+   background-color:hotpink; 
+   text-align:center;
+    color:greenyellow;
+}
+table{
+    background-color: aqua
+}
+body{
+    background-image:url(..//images/haikei.jfif)
+}
+ol{
+     background-image:url(..//images/hana.jpg)
+}
