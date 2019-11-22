@@ -1,0 +1,24 @@
+h1.oomidashi{
+    color: black;
+    background-color:indianred;
+    text-align:center;
+        
+}
+h2.tyuumidashi1{
+    color: black;
+    background-color:cadetblue;
+    text-align:center;
+}
+h2.tyuumidashi2{
+    color: black;
+    background-color:yellowgreen;
+    text-align:center;
+}
+h1#rink{
+    color: black;
+    background-color:forestgreen;
+    text-align:center;
+}
+body{
+    background-image: url(..//images/haikei.jfif)
+}
