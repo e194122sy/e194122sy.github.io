@@ -1,0 +1,56 @@
+div.title{
+    width: 1000px;
+    height: 60px;
+    margin: auto;
+    font-size: 50px;
+    background-image: url(..//images/hana.jpg);
+    margin-bottom: 20px;
+}
+div.chuumidashi{
+    width: 1000px;
+    height: 750px;
+    margin: auto;
+    background-image: url(..//images/hana.jpg);
+}
+div.footer{
+    width: 1000px;
+    height: 50px;
+    margin: auto;
+    font-size: 40px;
+    background-image: url(..//images/hana.jpg);
+    margin-top: 20px;
+}
+body{
+    background-color: dimgray;
+}
+div.images1{
+    text-align: center;
+    font-size:25px;
+    vertical-align: baseline;
+    display: inline-block;
+    width: 330px;
+    height: 750px;
+    margin-right: 1px;
+    background-image: url(..//images/neonsign1.jpg)
+    
+}
+div.images2{
+    text-align: center;
+    font-size:25px;
+    color: white;
+    vertical-align: baseline;
+    display: inline-block;
+    width: 327px;
+    height: 750px;
+    background-image: url(..//images/comme1.jpg)
+}
+div.images3{
+    text-align: center;
+    font-size:25px;
+    vertical-align: baseline;
+    display: inline-block;
+    width: 330px;
+    height: 750px;
+    margin-left: 1px;
+    background-image: url(..//images/facetasm1.jpg)
+}
